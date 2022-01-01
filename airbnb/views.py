@@ -1,7 +1,6 @@
 from django.views.generic import View
 from django.http import JsonResponse
 import requests
-from bs4 import BeautifulSoup
 # Create your views here.
 # Creating a view for searching autocomplete here
 
